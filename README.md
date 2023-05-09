@@ -23,7 +23,7 @@ Run the EdgeDetection.ipynb file in Jupyter Notebook or Google Colab
 
 <table>
     <tr><td><img src="Results/output.png"></td></tr>
-    <tr><td><img src="Results/output_2.png"></td></tr>
+    <tr><td><img src="Results/output_1.png"></td></tr>
     <tr><td><img src="Results/output_3.png"></td></tr>
 <table>
 
